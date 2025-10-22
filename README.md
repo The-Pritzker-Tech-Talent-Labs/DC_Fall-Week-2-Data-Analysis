@@ -118,10 +118,9 @@ Both show how data can help us understand the world (and our imagination) more d
 
 ---
 
-## 🧑‍🏫 Credits
-Developed for the **DPI Discover Computing Program**  
-Curriculum by Terrell McKinney and team  
+###### 🧑‍🏫 Credits
+###### Developed for the **DPI Discover Computing Program**  
+###### Curriculum by Aaron Douglas LLC  
 
 ---
 
-> “Behind every datapoint is a story — sometimes it’s a superhero, sometimes it’s a species fighting to survive.”
