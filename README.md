@@ -114,9 +114,37 @@ Both show how data can help us understand the world (and our imagination) more d
 ## ⚙️ Technical Tips
 - If something breaks: **Runtime → Restart and run all**  
 - To reset: reopen the notebook from GitHub  
-- You can re-run cells as often as you like — experimenting is part of learning!  
+- You can re-run cells as often as you like — experimenting is part of learning!
+  
 
 ---
+## ✨Update your Portfolio
+
+if you've competed this project you can update your portfolio by including this snippet of code below your profile card!
+
+#### Paste this code and edit it with your own links.
+```
+<!-- 📊 Data Storytelling Project Card -->
+<section class="mt-8 rounded-2xl bg-white/90 p-5 shadow-md ring-1 ring-gray-200 max-w-xl mx-auto">
+  <h3 class="text-lg font-semibold text-gray-900">📊 Data Storytelling — Heroes & Animals</h3>
+  <p class="text-sm text-gray-600 mt-2">
+    I explored superhero stats and endangered animal data to uncover patterns in strength, size, and survival.
+  </p>
+  <div class="mt-4 flex gap-3">
+    <a href="YOUR_COLAB_NOTEBOOK_LINK"
+       target="_blank"
+       class="rounded-lg bg-blue-600 px-4 py-2 text-white hover:bg-blue-700 transition">
+      🔗 Open Notebook
+    </a>
+    <a href="YOUR_CHART_IMAGE_LINK"
+       target="_blank"
+       class="rounded-lg bg-gray-100 px-4 py-2 text-gray-800 hover:bg-gray-200 transition">
+      🖼️ View Chart
+    </a>
+  </div>
+```
+</section>
+
 
 ###### 🧑‍🏫 Credits
 ###### Developed for the **DPI Discover Computing Program**  
